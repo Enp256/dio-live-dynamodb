@@ -1,5 +1,5 @@
 # dio-live-dynamodb
-Colocando em pratica o conteudo sobre o DynamoDB
+Colocando em pratica o conteudo sobre o DynamoDB, no Wondows pode causar alguns erros devido as "\".
 
 ### Serviço utilizado
   - Amazon DynamoDB
